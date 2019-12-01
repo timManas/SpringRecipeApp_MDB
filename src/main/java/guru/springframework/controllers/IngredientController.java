@@ -92,4 +92,4 @@ public class IngredientController {
 
         return "redirect:/recipe/" + recipeId + "/ingredients";
     }
-}   
+}
